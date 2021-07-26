@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DESComplementationPropertyDemonstration", "DESComplementationPropertyDemonstration\DESComplementationPropertyDemonstration.csproj", "{D9AA561C-BCAB-443E-812C-AB47FEF3CEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{3DFFF796-3CEF-4F59-B942-2986379D7F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9AA561C-BCAB-443E-812C-AB47FEF3CEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9AA561C-BCAB-443E-812C-AB47FEF3CEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9AA561C-BCAB-443E-812C-AB47FEF3CEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9AA561C-BCAB-443E-812C-AB47FEF3CEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFFF796-3CEF-4F59-B942-2986379D7F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFFF796-3CEF-4F59-B942-2986379D7F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFFF796-3CEF-4F59-B942-2986379D7F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFFF796-3CEF-4F59-B942-2986379D7F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BFBED86-4906-42D7-86A4-D9B7C6E35A81}
+	EndGlobalSection
+EndGlobal
